@@ -1,2 +1,2 @@
-# new prject 
-this is a e-commerce website
+# new project
+this is a e-commerce website.
